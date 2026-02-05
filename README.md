@@ -12,6 +12,8 @@ The dashboard helps business stakeholders analyze regional sales performance and
 
 <img width="1700" height="851" alt="Dashboard_Preview_1" src="https://github.com/user-attachments/assets/44f3cd50-e8ea-4971-9452-aa9bd1407217" />
 
+<img width="1700" height="851" alt="Dashboard_Preview_2" src="https://github.com/user-attachments/assets/9787dc41-397f-4aec-bd6e-c534767abbe9" />
+
 ---
 
 ## 🛠 Tools & Technologies
